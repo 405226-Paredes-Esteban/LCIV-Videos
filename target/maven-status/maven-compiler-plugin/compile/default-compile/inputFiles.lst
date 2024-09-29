@@ -1,0 +1,15 @@
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/Application.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/clients/posts/PostDto.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/clients/posts/PostRestClient.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/clients/profile/Profile.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/clients/profile/ProfileRestClient.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/config/MappersConfig.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/config/RestClientConfig.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/config/SpringDocConfig.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/controllers/DummyController.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/dtos/DummyDto.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/entities/DummyEntity.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/models/Dummy.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/repositories/DummyRepository.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/services/DummyService.java
+/home/esteban/Escritorio/UTN/LCIV-Videos/src/main/java/com/scaffold/template/services/impl/DummyServiceImpl.java
